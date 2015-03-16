@@ -2,7 +2,7 @@ package workingWithFiles;
 import java.io.*;
 import java.util.*;
 
-public class FileOperations {
+public class ReadLineByLine {
 
 	public static void main(String[] args) throws IOException {
 		if(args.length > 0) {
